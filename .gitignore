@@ -3,5 +3,6 @@
 !*.md
 !*.json
 !*.html
+!*.js
 !*.png
 !**/
